@@ -1,12 +1,19 @@
 ## Training
 [PicoCTF](https://picoctf.org/)
+
 [Olyciber](https://training.olicyber.it/)
+
 [capturetheflag](https://capturetheflag.it/risorse/come-imparo)
 [OverTheWiere](https://overthewire.org/wargames/)
+
 [pwnable](https://pwnable.kr/)
+
 [TryHackMe](https://tryhackme.com/)
+
 [HackTheBox](https://www.hackthebox.com/)
+
 [HackThisSite](https://www.hackthissite.org/)
+
 
 ## Miscellaneous 
 ## Network Security
