@@ -48,3 +48,5 @@ Open Source Intelligence (OSINT) is the method of retrieving information about a
 | Google dorks | Advanced search technique that allows you to discover data hidden by Google's search engine | [Google dorks](https://www.google.com/advanced_search) |
 | Expolit DB: dorks | A database with a lot of pre built dorks | [Exploit DB: dorks](https://www.exploit-db.com/google-hacking-database) |
 | TheHarvester | E-mails, subdomains and names Harvester - OSINT | [TheHarvester](https://github.com/laramies/theHarvester) |
+| Maltego | Run quick OSINT searches on suspects and threat actors with data from social media, the dark web, identity databases, and breach data | [Maltego](https://www.maltego.com/graph/) |
+
