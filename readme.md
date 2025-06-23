@@ -17,6 +17,8 @@
 
 
 ## Miscellaneous 
+### What are miscellaneous?
+Miscellaneous are serves as a catch-all for challenges that don't neatly fit into the more defined categories like web, crypto, or reverse engineering
 | Name | Description | Name |
 |------|-------------|------|
 | John Hammond - Katana | Huge repo of very useful CTF tools | [John Hammond - Katana](https://github.com/JohnHammond/ctf-katana) |
@@ -29,7 +31,11 @@
 | Zip Password Cracker | A really useful and free online zip password finder | [Zip Password Cracker](https://passwordrecovery.io/zip-file-password-removal/) |
 | Regex Check | Check regular expressions online | [Regex Check](https://www.debuggex.com/) |
 | ASCII Table | ASCII Table | [ASCII Table](http://www.asciitable.com/) |
-
+ | StegCracker | A tool for cracking steganography-encoded files | [StegCracker](https://github.com/Paradoxis/StegCracker) |
+| Steghide | A tool for hiding data in files and images | [Steghide](http://steghide.sourceforge.net/) |
+| OpenStego | A tool for hiding data in images | [OpenStego](https://www.openstego.com/) |
+|Stegsolve | A tool for solving steganography challenges | [Stegsolve](https://github.com/zardus/ctf-tools/tree/master/stegsolve) |
+| Online Stego Tool | A web application that provides a suite of tools for steganography | [Online Stego Tool](https://stylesuxx.github.io/steganography/) |
 
 ## Network Security
 ## Web Security
