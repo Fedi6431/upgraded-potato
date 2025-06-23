@@ -34,6 +34,41 @@
 ## Network Security
 ## Web Security
 ## Cryptography 
+| Name | Description | Link |
+|------|-------------|------|
+| dCode | Crypto heaven | [dCode](https://www.dcode.fr) |
+| QuipQuip | Online substitution cipher solver with frequency analysis | [QuipQuip](https://quipqiup.com/) |
+| Big Numbers Calculator 1 | An online calculator for huge integers | [Big Numbers Calculator 1](http://www.javascripter.net/math/calculators/100digitbigintcalculator.htm) |
+| Big Numbers Calculator 2 | An online calculator for huge integers, worse UI but maybe better performance | [Big Numbers Calculator 2](https://defuse.ca/big-number-calculator.htm) |
+| RSA Calculator | Online RSA parameters calculator with encryption/decryption | [RSA Calculator](https://www.cryptool.org/en/cto/highlights/rsa-step-by-step) |
+| Inverse mod N Calculator | Compute the modular inverse of a number, even with big numbers | [Inverse mod N Calculator](https://www.dcode.fr/modular-inverse) |
+| RsaCtfTool | Python tool to perform RSA attacks | [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool) |
+| FactorDB | Find well-known integer factorization | [FactorDB](http://factordb.com/) |
+| CrackStation | Online hash cracker (md5, sha, ...) | [CrackStation](https://crackstation.net/) |
+| Vigenere Solver | Very good online Vigenere Cipher solver with bruteforce | [Vigenere Solver](https://www.guballa.de/vigenere-solver) |
+| Substitution Solver | Very good online Substitution Cipher solver with bruteforce | [Substitution Solver](https://www.guballa.de/substitution-solver) |
+| Sage Math | Online Sage environment to perform Crypto calculations | [Sage Math](https://sagecell.sagemath.org/) |
+| Crunch | Linux tool to create custom dictionaries for attacks (hash, pd, ..) | [Crunch](https://tools.kali.org/password-attacks/crunch) |
+| Online Hash Crack | Big website to perform hash/pwd cracking and identification on various files | [Online Hash Crack](https://www.onlinehashcrack.com/) |
+| Hash Identifier | Linux tool to perform hash identification | [Hash Identifier](https://tools.kali.org/password-attacks/hash-identifier) |
+| Morse Code Translator | Morse Code Translator | [Morse Code Translator](https://morsecode.world/international/translator.html) |
+| Dual Tone Decoder | Find DTMF tones within audio clips | [Dual Tone Decoder](http://dialabc.com/sound/detect/) |
+| gmpy2 | Python library for multiple-precision arithmetic | [gmpy2](https://gmpy2.readthedocs.io/en/latest/intro.html) |
+| Weird Ciphers | A list of some strange cryptography algorithms | [Weird Ciphers](http://www.quadibloc.com/crypto/intro.htm) |
+| Symbolic Ciphers | Another list of strange cryptography algorithms | [Symbolic Ciphers](https://www.dcode.fr/symbols-ciphers) |
+| CTF Tool | | [CTF Tool](https://ctftool.com/) |
+| CTF CryptoTool | | [CTF CryptoTool](https://github.com/karma9874/CTF-CryptoTool) |
+| CyberChef | A web application that provides a suite of tools for data analysis and manipulation | [CyberChef](https://gchq.github.io/CyberChef/) |
+| FeatherDuster | A tool that can identify and exploit weaknesses in cryptographic implementations | [FeatherDuster](https://github.com/nccgroup/featherduster) |
+| Hash Extender | A tool for extending hash length attacks | [Hash Extender](https://github.com/iagox86/hash_extender) |
+| padding-oracle-attacker | A tool for attacking padding oracle vulnerabilities in web applications | [padding-oracle-attacker](https://github.com/KishanBagaria/padding-oracle-attacker) |
+| PkCrack | A tool for breaking PkZip encryption | [PkCrack](https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html) |
+| RSACTFTool | A tool for attacking RSA encryption | [RSACTFTool](https://github.com/Ganapati/RsaCtfTool) |
+| RSATool | A tool for recovering the RSA private key from a given public key | [RSATool](https://github.com/ius/rsatool) |
+| XORTool | A tool for performing XOR encryption and decryption | [XORTool](https://github.com/hellman/xortool) |
+| Cryptii | A web application that provides a suite of tools for encryption, decryption, and encoding | [Cryptii](https://cryptii.com/) |
+| Keyboard Shift | A tool for performing keyboard shift ciphers | [Keyboard Shift](https://github.com/bwatter/keyboard-shift-cipher) |
+
 ### What is cryptography?
 Cryptography is the practice and study of techniques for secure communication in the presence of adversaries
 
