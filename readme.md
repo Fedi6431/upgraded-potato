@@ -13,3 +13,11 @@ OSINT (open source intelligence) is the method to retrieve informations of a det
 [Duckdcukgo](duckduckgo.com) - General informations
 
 [Shodan](https://www.shodan.io/) - Precise informations / advanced information gathering
+
+#### Open Database, Directories and Services Search
+
+[Cloud enum](https://github.com/initstring/cloud_enum)
+
+[Open dir crawler](https://odcrawler.xyz/)
+
+[Open dir search tool](https://opendirsearch.abifog.com/)
