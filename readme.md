@@ -43,6 +43,33 @@
 
 [Mobile](https://github.com/xtiankisutsa/awesome-mobile-CTF)
 
+[Pwn.College](https://pwn.college)
+
+[ROP Emporium](https://ropemporium.com)
+
+[Exploit Education](https://exploit.education)
+
+[How2Heap](https://github.com/shellphish/how2heap)
+
+[GuidedHacking](https://guidedhacking.com)
+
+[Pwnables](https://pwnable.tw/challenge)
+
+[Deusx64](https://deusx64.ai)
+
+[Roppers Academy](https://roppers.org/collections)
+
+[Azeria Labs](https://azeria-labs.com/writing-arm-assembly-part-1)
+
+
+[NightMare](https://guyinatuxedo.github.io)
+
+[Ir0nstone](https://ir0nstone.gitbook.io)
+
+[Reversing Challenges](https://challenges.re)
+
+[CrackMes](https://crackmes.one)
+
 ## OSINT
 ### What is OSINT (Open Source Intelligence)?
 
