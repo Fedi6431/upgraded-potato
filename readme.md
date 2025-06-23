@@ -9,4 +9,5 @@ OSINT (open source intelligence) is the method to retrieve informations of a det
 ### Useful tools for OSINT
 #### Search engines
 [www.google.com](Google)            - General informations
+
 [duckduckgo.com](Duckduckgo)        - General informations
