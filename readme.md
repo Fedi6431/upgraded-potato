@@ -49,4 +49,4 @@ Open Source Intelligence (OSINT) is the method of retrieving information about a
 | Expolit DB: dorks | A database with a lot of pre built dorks | [Exploit DB: dorks](https://www.exploit-db.com/google-hacking-database) |
 | TheHarvester | E-mails, subdomains and names Harvester - OSINT | [TheHarvester](https://github.com/laramies/theHarvester) |
 | Maltego | Run quick OSINT searches on suspects and threat actors with data from social media, the dark web, identity databases, and breach data | [Maltego](https://www.maltego.com/graph/) |
-
+| Recon-ng | Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources. | [Recon-ng](https://github.com/lanmaster53/recon-ng) |
