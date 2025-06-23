@@ -21,3 +21,5 @@ OSINT (open source intelligence) is the method to retrieve informations of a det
 [Open dir crawler](https://odcrawler.xyz/)
 
 [Open dir search tool](https://opendirsearch.abifog.com/)
+
+[Open dir search tool](https://ewasion.github.io/opendirectory-finder)
