@@ -8,7 +8,7 @@
 
 Open Source Intelligence (OSINT) is the method of retrieving information about a specific target using social media and public information such as newspapers, news sites, public records, public registers, etc.
 
-### Useful Tools for OSINT
+### Useful links for OSINT
 
 #### Search Engines
 
