@@ -12,7 +12,7 @@ Open Source Intelligence (OSINT) is the method of retrieving information about a
 
 #### Search Engines
 
-| Tool | Description | Link |
+| Name | Description | Link |
 |------|-------------|------|
 | Google | General information | [Google](http://www.google.com) |
 | DuckDuckGo | General information | [DuckDuckGo](https://duckduckgo.com) |
@@ -20,7 +20,7 @@ Open Source Intelligence (OSINT) is the method of retrieving information about a
 
 #### Open Database, Directories and Services Search
 
-| Tool | Description | Link |
+| Name | Description | Link |
 |------|-------------|------|
 | Cloud enum | | [Cloud enum](https://github.com/initstring/cloud_enum) |
 | Open Directory Crawler | | [Open Directory Crawler](https://odcrawler.xyz/) |
@@ -29,7 +29,7 @@ Open Source Intelligence (OSINT) is the method of retrieving information about a
 
 #### People Investigation
 
-| Tool | Description | Link |
+| Name | Description | Link |
 |------|-------------|------|
 | Pipl | People Search Tools | [Pipl](https://pipl.com) |
 | Spokeo | People Search Tools | [Spokeo](https://www.spokeo.com) |
@@ -39,3 +39,8 @@ Open Source Intelligence (OSINT) is the method of retrieving information about a
 | FamilySearch | Public Records | [FamilySearch](https://www.familysearch.org) |
 | Ancestry | Public Records | [Ancestry](https://www.ancestry.com) |
 | DocuBase | Document Checking | [DocuBase](https://www.docubase.com) |
+
+### Useful OSINT tools
+| Name | Description | Link |
+|------|-------------|------|
+| Sherlcok | Hunt down social media accounts by username across social networks | [Sherlock](https://github.com/sherlock-project/sherlock) |
