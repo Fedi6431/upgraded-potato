@@ -44,4 +44,4 @@ Open Source Intelligence (OSINT) is the method of retrieving information about a
 | Name | Description | Link |
 |------|-------------|------|
 | Sherlcok | Hunt down social media accounts by username across social networks | [Sherlock](https://github.com/sherlock-project/sherlock) |
-| X-Osint | This is an Open source intelligent framework ie an osint tool which gathers valid information about a phone number, user's email address, perform VIN Osint, and reverse, perform subdomain enumeration, able to find email from a name, and so much more. Best osint tool for Termux and linux | [X-osint]([https://github.com/sherlock-project/sherlock](https://github.com/TermuxHackz/X-osint)) |
+| X-Osint | This is an Open source intelligent framework ie an osint tool which gathers valid information about a phone number, user's email address, perform VIN Osint, and reverse, perform subdomain enumeration, able to find email from a name, and so much more. Best osint tool for Termux and linux | [X-osint](https://github.com/TermuxHackz/X-osint) |
