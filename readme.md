@@ -1,94 +1,98 @@
 ## Training
-[PicoCTF](https://picoctf.org/)
-
-[Olyciber](https://training.olicyber.it/)
-
-[capturetheflag](https://capturetheflag.it/risorse/come-imparo)
-
-[OverTheWiere](https://overthewire.org/wargames/)
-
-[pwnable](https://pwnable.kr/)
-
-[TryHackMe](https://tryhackme.com/)
-
-[HackTheBox](https://www.hackthebox.com/)
-
-[HackThisSite](https://www.hackthissite.org/)
-
-[Intigriti Monthly Challenge](https://challenge.intigriti.io)
-
-[ImaginaryCTF](https://imaginaryctf.org)
-
-[247CTF](https://247ctf.com)
-
-[CTF Challenge](https://ctfchallenge.com)
-
-[CTF Learn](https://ctflearn.com)
-
-[CryptoHack](https://cryptohack.org)
-
-[Google CTF](https://capturetheflag.withgoogle.com)
-
-[SmashTheStack](http://www.smashthestack.org/main.html#wargames)
-
-[W3Challs](https://w3challs.com/challenges)
-
-[Ringzer0CTF](https://ringzer0ctf.com/challenges)
-
-[Root Me](https://www.root-me.org)
-
-[SecurityValley CTF](https://ctf.securityvalley.org)
-
-[Game Hacking](https://github.com/mrT4ntr4/CTF-Game-Challenges)
-
-[Mobile](https://github.com/xtiankisutsa/awesome-mobile-CTF)
-
-[Pwn.College](https://pwn.college)
-
-[ROP Emporium](https://ropemporium.com)
-
-[Exploit Education](https://exploit.education)
-
-[How2Heap](https://github.com/shellphish/how2heap)
-
-[GuidedHacking](https://guidedhacking.com)
-
-[Pwnables](https://pwnable.tw/challenge)
-
-[Deusx64](https://deusx64.ai)
-
-[Roppers Academy](https://roppers.org/collections)
-
-[Azeria Labs](https://azeria-labs.com/writing-arm-assembly-part-1)
-
-
-[NightMare](https://guyinatuxedo.github.io)
-
-[Ir0nstone](https://ir0nstone.gitbook.io)
-
-[Reversing Challenges](https://challenges.re)
-
-[CrackMes](https://crackmes.one)
-
-[Bug Bounty Platforms](https://github.com/disclose/bug-bounty-platforms)
-
-[HackTricks](https://book.hacktricks.xyz/pentesting-methodology)
-
-[CTF Resources](https://github.com/apsdehal/awesome-ctf)
-
-[Security Resources](https://github.com/CompassSecurity/security_resources)
-
-[Bug Bounty Resources](https://www.hacker101.com/resources)
-
-[Seal9055 Resources](https://github.com/seal9055/resources)
-
-[Forensics](https://cugu.github.io/awesome-forensics)
-
-[Learn RE](https://hshrzd.wordpress.com/how-to-start)
-
-[Learn BinExp](https://guyinatuxedo.github.io)
-
-[HTB Writeups](https://0xdf.gitlab.io)
+| Name | Description | Link |
+|------|-------------|------|
+| PicoCTF | | [PicoCTF](https://picoctf.org/) |
+| Olyciber | | [Olyciber](https://training.olicyber.it/) |
+| CaptureTheFlag | | [CaptureTheFlag](https://capturetheflag.it/risorse/come-imparo) |
+| OverTheWire | | [OverTheWire](https://overthewire.org/wargames/) |
+| Pwnable | | [Pwnable](https://pwnable.kr/) |
+| TryHackMe | | [TryHackMe](https://tryhackme.com/) |
+| HackTheBox | | [HackTheBox](https://www.hackthebox.com/) |
+| HackThisSite | | [HackThisSite](https://www.hackthissite.org/) |
+| Intigriti Monthly Challenge | | [Intigriti Monthly Challenge](https://challenge.intigriti.io) |
+| ImaginaryCTF | | [ImaginaryCTF](https://imaginaryctf.org) |
+| 247CTF | | [247CTF](https://247ctf.com) |
+| CTF Challenge | | [CTF Challenge](https://ctfchallenge.com) |
+| CTF Learn | | [CTF Learn](https://ctflearn.com) |
+| CryptoHack | | [CryptoHack](https://cryptohack.org) |
+| Google CTF | | [Google CTF](https://capturetheflag.withgoogle.com) |
+| SmashTheStack | | [SmashTheStack](http://www.smashthestack.org/main.html#wargames) |
+| W3Challs | | [W3Challs](https://w3challs.com/challenges) |
+| Ringzer0CTF | | [Ringzer0CTF](https://ringzer0ctf.com/challenges) |
+| Root Me | | [Root Me](https://www.root-me.org) |
+| SecurityValley CTF | | [SecurityValley CTF](https://ctf.securityvalley.org) |
+| Game Hacking | | [Game Hacking](https://github.com/mrT4ntr4/CTF-Game-Challenges) |
+| Mobile | | [Mobile](https://github.com/xtiankisutsa/awesome-mobile-CTF) |
+| Pwn.College | | [Pwn.College](https://pwn.college) |
+| ROP Emporium | | [ROP Emporium](https://ropemporium.com) |
+| Exploit Education | | [Exploit Education](https://exploit.education) |
+| How2Heap | | [How2Heap](https://github.com/shellphish/how2heap) |
+| GuidedHacking | | [GuidedHacking](https://guidedhacking.com) |
+| Pwnables | | [Pwnables](https://pwnable.tw/challenge) |
+| Deusx64 | | [Deusx64](https://deusx64.ai) |
+| Roppers Academy | | [Roppers Academy](https://roppers.org/collections) |
+| Azeria Labs | | [Azeria Labs](https://azeria-labs.com/writing-arm-assembly-part-1) |
+| NightMare | | [NightMare](https://guyinatuxedo.github.io) |
+| Ir0nstone | | [Ir0nstone](https://ir0nstone.gitbook.io) |
+| Reversing Challenges | | [Reversing Challenges](https://challenges.re) |
+| CrackMes | | [CrackMes](https://crackmes.one) |
+| Bug Bounty Platforms | | [Bug Bounty Platforms](https://github.com/disclose/bug-bounty-platforms) |
+| HackTricks | | [HackTricks](https://book.hacktricks.xyz/pentesting-methodology) |
+| CTF Resources | | [CTF Resources](https://github.com/apsdehal/awesome-ctf) |
+| Security Resources | | [Security Resources](https://github.com/CompassSecurity/security_resources) |
+| Bug Bounty Resources | | [Bug Bounty Resources](https://www.hacker101.com/resources) |
+| Seal9055 Resources | | [Seal9055 Resources](https://github.com/seal9055/resources) |
+| Forensics | | [Forensics](https://cugu.github.io/awesome-forensics) |
+| Learn RE | | [Learn RE](https://hshrzd.wordpress.com/how-to-start) |
+| Learn BinExp | | [Learn BinExp](https://guyinatuxedo.github.io) |
+| HTB Writeups | | [HTB Writeups](https://0xdf.gitlab.io) |
+| Backdoor | Security Platform by SDSLabs | [Backdoor](https://backdoor.sdslabs.co/) |
+| Crackmes | Reverse Engineering Challenges | [Crackmes](https://crackmes.one/) |
+| CryptoHack | Fun cryptography challenges | [CryptoHack](https://cryptohack.org/) |
+| echoCTF.RED | Online CTF with a variety of targets to attack | [echoCTF.RED](https://echoctf.red/) |
+| Exploit Exercises | Variety of VMs to learn about computer security issues | [Exploit Exercises](https://exploit-exercises.lains.space/) |
+| Exploit.Education | Variety of VMs to learn about computer security issues | [Exploit.Education](http://exploit.education) |
+| Gracker | Binary challenges with a slow learning curve | [Gracker](https://github.com/Samuirai/gracker) |
+| Hack The Box | Weekly CTFs for all types of security enthusiasts | [Hack The Box](https://www.hackthebox.eu) |
+| Hacker101 | CTF from HackerOne | [Hacker101](https://www.hacker101.com/) |
+| Hacking-Lab | Ethical hacking, computer network, and security challenge platform | [Hacking-Lab](https://hacking-lab.com/) |
+| Hone Your Ninja Skills | Web challenges starting from basic ones | [Hone Your Ninja Skills](https://honeyourskills.ninja/) |
+| IO | Wargame for binary challenges | [IO](http://io.netgarage.org/) |
+| Microcorruption | Embedded security CTF | [Microcorruption](https://microcorruption.com) |
+| PentesterLab | Variety of VM and online challenges (paid) | [PentesterLab](https://pentesterlab.com/) |
+| PicoCTF | All-year-round CTF game | [PicoCTF](https://2019game.picoctf.com) |
+| PWN Challenge | Binary Exploitation Wargame | [PWN Challenge](http://pwn.eonew.cn/) |
+| Pwnable.kr | Pwn Game | [Pwnable.kr](http://pwnable.kr/) |
+| Pwnable.tw | Binary wargame | [Pwnable.tw](https://pwnable.tw/) |
+| Pwnable.xyz | Binary Exploitation Wargame | [Pwnable.xyz](https://pwnable.xyz/) |
+| Reversing.kr | Reversing challenge | [Reversing.kr](http://reversing.kr/) |
+| Ringzer0Team | Ringzer0 Team Online CTF | [Ringzer0Team](https://ringzer0team.com/) |
+| Root-Me | Hacking and Information Security learning platform | [Root-Me](https://www.root-me.org/) |
+| ROP Wargames | ROP Wargames | [ROP Wargames](https://github.com/xelenonz/game) |
+| SANS HHC | Challenges with a holiday theme | [SANS HHC](https://holidayhackchallenge.com/past-challenges/) |
+| SmashTheStack | A variety of wargames | [SmashTheStack](http://smashthestack.org/) |
+| Viblo CTF | Various CTF challenges | [Viblo CTF](https://ctf.viblo.asia) |
+| VulnHub | VM-based practical in digital security | [VulnHub](https://www.vulnhub.com/) |
+| W3Challs | Penetration testing training platform | [W3Challs](https://w3challs.com) |
+| WebHacking | Hacking challenges for web | [WebHacking](http://webhacking.kr) |
+| Awesome CTF Cheatsheet | CTF Cheatsheet | [Awesome CTF Cheatsheet](https://github.com/uppusaikiran/awesome-ctf-cheatsheet#awesome-ctf-cheatsheet-) |
+| CTF Time | General information on CTF events | [CTF Time](https://ctftime.org/) |
+| Reddit Security CTF | Reddit CTF category | [Reddit Security CTF](http://www.reddit.com/r/securityctf) |
+| Bamboofox | Chinese resources to learn CTF | [Bamboofox](https://bamboofox.github.io/) |
+| bi0s Wiki | Wiki from team bi0s | [bi0s Wiki](https://teambi0s.gitlab.io/bi0s-wiki/) |
+| CTF Cheatsheet | CTF tips and tricks | [CTF Cheatsheet](https://uppusaikiran.github.io/hacking/Capture-the-Flag-CheatSheet/) |
+| ISIS Lab | CTF Wiki by Isis lab | [ISIS Lab](https://github.com/isislab/Project-Ideas/wiki) |
+| OpenToAll | CTF tips by OTA CTF team members | [OpenToAll](https://github.com/OpenToAllCTF/Tips) |
+| 0e85dc6eaf | Write-ups for CTF challenges | [0e85dc6eaf](https://github.com/0e85dc6eaf/CTF-Writeups) |
+| Captf | Dumped CTF challenges and materials | [Captf](http://captf.com/) |
+| CTF write-ups (community) | CTF challenges and write-ups archive | [CTF write-ups (community)](https://github.com/ctfs/) |
+| CTFTime Scrapper | Scrapes all write-ups from CTF Time | [CTFTime Scrapper](https://github.com/abdilahrf/CTFWriteupScrapper) |
+| HackThisSite | CTF write-ups repo | [HackThisSite](https://github.com/HackThisSite/CTF-Writeups) |
+| Mzfr | CTF competition write-ups | [Mzfr](https://github.com/mzfr/ctf-writeups/) |
+| pwntools writeups | Collection of CTF write-ups using pwntools | [pwntools writeups](https://github.com/Gallopsled/pwntools-write-ups) |
+| SababaSec | Collection of CTF write-ups | [SababaSec](https://github.com/SababaSec/ctf-writeups) |
+| Shell Storm | CTF challenge archive | [Shell Storm](http://shell-storm.org/repo/CTF/) |
+| Smoke Leet Everyday | CTF write-ups repo | [Smoke Leet Everyday](https://github.com/smokeleeteveryday/CTF_WRITEUPS) |
 
 
 ## OSINT
