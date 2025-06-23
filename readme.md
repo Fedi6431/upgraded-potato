@@ -45,3 +45,5 @@ Open Source Intelligence (OSINT) is the method of retrieving information about a
 |------|-------------|------|
 | Sherlcok | Hunt down social media accounts by username across social networks | [Sherlock](https://github.com/sherlock-project/sherlock) |
 | X-Osint | This is an Open source intelligent framework ie an osint tool which gathers valid information about a phone number, user's email address, perform VIN Osint, and reverse, perform subdomain enumeration, able to find email from a name, and so much more. Best osint tool for Termux and linux | [X-osint](https://github.com/TermuxHackz/X-osint) |
+| Google dorks | Advanced search technique that allows you to discover data hidden by Google's search engine | [Google dorks](https://www.google.com/advanced_search) |
+| Expolit DB: dorks | A database with a lot of pre built dorks | [Exploit DB: dorks](https://www.exploit-db.com/google-hacking-database) |
