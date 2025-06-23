@@ -133,7 +133,12 @@ Cryptography is the practice and study of techniques for secure communication in
 
 
 ## Network Security
+### What is network security?
+Network security is the practice of protecting a computer network from unauthorized access, misuse, or attacks. It involves using various tools, technologies, and policies to ensure the confidentiality, integrity, and availability of data and resources within the network.
 
+#### Useful links & tools for network security
+| Name | Description | Link |
+|------|-------------|------|
 
 ## Web Security
 
