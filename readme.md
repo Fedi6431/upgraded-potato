@@ -18,6 +18,42 @@
 [ctftime](https://ctftime.org/ctfs)
 
 
+## OSINT
+### What is OSINT (Open Source Intelligence)?
+
+Open Source Intelligence (OSINT) is the method of retrieving information about a specific target using social media and public information such as newspapers, news sites, public records, public registers, etc.
+
+### Useful links & tools for OSINT
+| Name | Description | Link |
+|------|-------------|------|
+| Google | General information | [Google](http://www.google.com) |
+| DuckDuckGo | General information | [DuckDuckGo](https://duckduckgo.com) |
+| Shodan | Precise information / Advanced information gathering | [Shodan](https://www.shodan.io/) |
+| Wayback machine | Internet web archive | [Wayback Machine](https://archive.org/web/) |
+| Cloud enum | | [Cloud enum](https://github.com/initstring/cloud_enum) |
+| Open Directory Crawler | | [Open Directory Crawler](https://odcrawler.xyz/) |
+| Open Directory Search Tool | | [Open Directory Search Tool](https://opendirsearch.abifog.com/) |
+| Open Directory Search Tool | | [Open Directory Search Tool](https://ewasion.github.io/opendirectory-finder) |
+| Pipl | People Search Tools | [Pipl](https://pipl.com) |
+| Spokeo | People Search Tools | [Spokeo](https://www.spokeo.com) |
+| Whitepages | People Search Tools | [Whitepages](https://www.whitepages.com) |
+| Behind the Name | Name Research | [Behind the Name](https://www.behindthename.com) |
+| Namepedia | Name Research | [Namepedia](https://www.namepedia.com) |
+| FamilySearch | Public Records | [FamilySearch](https://www.familysearch.org) |
+| Ancestry | Public Records | [Ancestry](https://www.ancestry.com) |
+| DocuBase | Document Checking | [DocuBase](https://www.docubase.com) |
+| epieos | Email lookup | [epieos](https://epieos.com/) |
+| Sherlock | Hunt down social media accounts by username across social networks | [Sherlock](https://github.com/sherlock-project/sherlock) |
+| X-Osint | This is an Open source intelligent framework ie an osint tool which gathers valid information about a phone number, user's email address, perform VIN Osint, and reverse, perform subdomain enumeration, able to find email from a name, and so much more. Best osint tool for Termux and linux | [X-osint](https://github.com/TermuxHackz/X-osint) |
+| Google dorks | Advanced search technique that allows you to discover data hidden by Google's search engine | [Google dorks](https://www.google.com/advanced_search) |
+| Expolit DB: dorks | A database with a lot of pre built dorks | [Exploit DB: dorks](https://www.exploit-db.com/google-hacking-database) |
+| TheHarvester | E-mails, subdomains and names Harvester - OSINT | [TheHarvester](https://github.com/laramies/theHarvester) |
+| Maltego | Run quick OSINT searches on suspects and threat actors with data from social media, the dark web, identity databases, and breach data | [Maltego](https://www.maltego.com/graph/) |
+| Recon-ng | Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources. | [Recon-ng](https://github.com/lanmaster53/recon-ng) |
+| Spiderfoot | SpiderFoot automates OSINT for threat intelligence and mapping your attack surface | [Spiderfoot](https://github.com/smicallef/spiderfoot++) |
+| Creepy | A geolocation OSINT tool. Offers geolocation information gathering through social networking platforms. | [Creepy](https://github.com/ilektrojohn/creepy) |
+
+
 ## Miscellaneous 
 ### What are miscellaneous?
 Miscellaneous are serves as a catch-all for challenges that don't neatly fit into the more defined categories like web, crypto, or reverse engineering
@@ -52,12 +88,6 @@ Miscellaneous are serves as a catch-all for challenges that don't neatly fit int
 |  Forensically| Extract  data from images | [Forensically](https://29a.ch/photo-forensics/#forensic-magnifier) |
 | Autopsy | File recovery tool with data carving | [Autopsy](https://www.sleuthkit.org/autopsy/) |
 | Foremost | File recovery tool based on their bytes| [Foremost](https://tools.kali.org/forensics/foremost) |
-
-
-## Network Security
-
-
-## Web Security
 
 
 ## Cryptography 
@@ -102,40 +132,12 @@ Cryptography is the practice and study of techniques for secure communication in
 | Keyboard Shift | A tool for performing keyboard shift ciphers | [Keyboard Shift](https://github.com/bwatter/keyboard-shift-cipher) |
 
 
+## Network Security
+
+
+## Web Security
+
+
 ## Software Security
 
 
-## OSINT
-### What is OSINT (Open Source Intelligence)?
-
-Open Source Intelligence (OSINT) is the method of retrieving information about a specific target using social media and public information such as newspapers, news sites, public records, public registers, etc.
-
-### Useful links & tools for OSINT
-| Name | Description | Link |
-|------|-------------|------|
-| Google | General information | [Google](http://www.google.com) |
-| DuckDuckGo | General information | [DuckDuckGo](https://duckduckgo.com) |
-| Shodan | Precise information / Advanced information gathering | [Shodan](https://www.shodan.io/) |
-| Wayback machine | Internet web archive | [Wayback Machine](https://archive.org/web/) |
-| Cloud enum | | [Cloud enum](https://github.com/initstring/cloud_enum) |
-| Open Directory Crawler | | [Open Directory Crawler](https://odcrawler.xyz/) |
-| Open Directory Search Tool | | [Open Directory Search Tool](https://opendirsearch.abifog.com/) |
-| Open Directory Search Tool | | [Open Directory Search Tool](https://ewasion.github.io/opendirectory-finder) |
-| Pipl | People Search Tools | [Pipl](https://pipl.com) |
-| Spokeo | People Search Tools | [Spokeo](https://www.spokeo.com) |
-| Whitepages | People Search Tools | [Whitepages](https://www.whitepages.com) |
-| Behind the Name | Name Research | [Behind the Name](https://www.behindthename.com) |
-| Namepedia | Name Research | [Namepedia](https://www.namepedia.com) |
-| FamilySearch | Public Records | [FamilySearch](https://www.familysearch.org) |
-| Ancestry | Public Records | [Ancestry](https://www.ancestry.com) |
-| DocuBase | Document Checking | [DocuBase](https://www.docubase.com) |
-| epieos | Email lookup | [epieos](https://epieos.com/) |
-| Sherlock | Hunt down social media accounts by username across social networks | [Sherlock](https://github.com/sherlock-project/sherlock) |
-| X-Osint | This is an Open source intelligent framework ie an osint tool which gathers valid information about a phone number, user's email address, perform VIN Osint, and reverse, perform subdomain enumeration, able to find email from a name, and so much more. Best osint tool for Termux and linux | [X-osint](https://github.com/TermuxHackz/X-osint) |
-| Google dorks | Advanced search technique that allows you to discover data hidden by Google's search engine | [Google dorks](https://www.google.com/advanced_search) |
-| Expolit DB: dorks | A database with a lot of pre built dorks | [Exploit DB: dorks](https://www.exploit-db.com/google-hacking-database) |
-| TheHarvester | E-mails, subdomains and names Harvester - OSINT | [TheHarvester](https://github.com/laramies/theHarvester) |
-| Maltego | Run quick OSINT searches on suspects and threat actors with data from social media, the dark web, identity databases, and breach data | [Maltego](https://www.maltego.com/graph/) |
-| Recon-ng | Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources. | [Recon-ng](https://github.com/lanmaster53/recon-ng) |
-| Spiderfoot | SpiderFoot automates OSINT for threat intelligence and mapping your attack surface | [Spiderfoot](https://github.com/smicallef/spiderfoot++) |
-| Creepy | A geolocation OSINT tool. Offers geolocation information gathering through social networking platforms. | [Creepy](https://github.com/ilektrojohn/creepy) |
