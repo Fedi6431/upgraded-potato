@@ -70,6 +70,27 @@
 
 [CrackMes](https://crackmes.one)
 
+[Bug Bounty Platforms](https://github.com/disclose/bug-bounty-platforms)
+
+[HackTricks](https://book.hacktricks.xyz/pentesting-methodology)
+
+[CTF Resources](https://github.com/apsdehal/awesome-ctf)
+
+[Security Resources](https://github.com/CompassSecurity/security_resources)
+
+[Bug Bounty Resources](https://www.hacker101.com/resources)
+
+[Seal9055 Resources](https://github.com/seal9055/resources)
+
+[Forensics](https://cugu.github.io/awesome-forensics)
+
+[Learn RE](https://hshrzd.wordpress.com/how-to-start)
+
+[Learn BinExp](https://guyinatuxedo.github.io)
+
+[HTB Writeups](https://0xdf.gitlab.io)
+
+
 ## OSINT
 ### What is OSINT (Open Source Intelligence)?
 
