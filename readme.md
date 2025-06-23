@@ -310,6 +310,10 @@ Network security is the practice of protecting a computer network from unauthori
 
 
 ## Web Security
+### What is web security?
+Web security in cybersecurity refers to the measures and practices implemented to protect websites, web applications, and online data from cyber threats.
+
+#### Useful links & tools for web Security
 | Name | Description | Link |
 |------|-------------|------|
 | BurpSuite | A graphical tool for testing website security | [BurpSuite](https://portswigger.net/burp) |
