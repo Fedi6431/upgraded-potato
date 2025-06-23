@@ -3,13 +3,14 @@
 ## Web Security
 ## Cryptography 
 ## Software Security
-## What is OSINT (Open Source Intelligence)?
+## OSINT
+### What is OSINT (Open Source Intelligence)?
 
 Open Source Intelligence (OSINT) is the method of retrieving information about a specific target using social media and public information such as newspapers, news sites, public records, public registers, etc.
 
-## Useful Tools for OSINT
+### Useful Tools for OSINT
 
-### Search Engines
+#### Search Engines
 
 | Tool | Description | Link |
 |------|-------------|------|
@@ -17,7 +18,7 @@ Open Source Intelligence (OSINT) is the method of retrieving information about a
 | DuckDuckGo | General information | [DuckDuckGo](https://duckduckgo.com) |
 | Shodan | Precise information / Advanced information gathering | [Shodan](https://www.shodan.io/) |
 
-### Open Database, Directories and Services Search
+#### Open Database, Directories and Services Search
 
 | Tool | Description | Link |
 |------|-------------|------|
@@ -26,7 +27,7 @@ Open Source Intelligence (OSINT) is the method of retrieving information about a
 | Open Directory Search Tool | | [Open Directory Search Tool](https://opendirsearch.abifog.com/) |
 | Open Directory Search Tool | | [Open Directory Search Tool](https://ewasion.github.io/opendirectory-finder) |
 
-### People Investigation
+#### People Investigation
 
 | Tool | Description | Link |
 |------|-------------|------|
