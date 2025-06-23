@@ -3,23 +3,38 @@
 ## Web Security
 ## Cryptography 
 ## Software Security
-## OSINT
-### What is OSINT (open source intelligence)?
-OSINT (open source intelligence) is the method to retrieve informations of a determinated target by social media and public information such as newspaer, news site, public records, public registers, etc...
-### Useful tools for OSINT
-#### Search engines
-[Google](www.google.com) - General informations
+## What is OSINT (Open Source Intelligence)?
 
-[Duckdcukgo](duckduckgo.com) - General informations
+Open Source Intelligence (OSINT) is the method of retrieving information about a specific target using social media and public information such as newspapers, news sites, public records, public registers, etc.
 
-[Shodan](https://www.shodan.io/) - Precise informations / advanced information gathering
+## Useful Tools for OSINT
 
-#### Open Database, Directories and Services Search
+### Search Engines
 
-[Cloud enum](https://github.com/initstring/cloud_enum)
+| Tool | Description | Link |
+|------|-------------|------|
+| Google | General information | [Google](http://www.google.com) |
+| DuckDuckGo | General information | [DuckDuckGo](https://duckduckgo.com) |
+| Shodan | Precise information / Advanced information gathering | [Shodan](https://www.shodan.io/) |
 
-[Open dir crawler](https://odcrawler.xyz/)
+### Open Database, Directories and Services Search
 
-[Open dir search tool](https://opendirsearch.abifog.com/)
+| Tool | Description | Link |
+|------|-------------|------|
+| Cloud enum | | [Cloud enum](https://github.com/initstring/cloud_enum) |
+| Open Directory Crawler | | [Open Directory Crawler](https://odcrawler.xyz/) |
+| Open Directory Search Tool | | [Open Directory Search Tool](https://opendirsearch.abifog.com/) |
+| Open Directory Search Tool | | [Open Directory Search Tool](https://ewasion.github.io/opendirectory-finder) |
 
-[Open dir search tool](https://ewasion.github.io/opendirectory-finder)
+### People Investigation
+
+| Tool | Description | Link |
+|------|-------------|------|
+| Pipl | People Search Tools | [Pipl](https://pipl.com) |
+| Spokeo | People Search Tools | [Spokeo](https://www.spokeo.com) |
+| Whitepages | People Search Tools | [Whitepages](https://www.whitepages.com) |
+| Behind the Name | Name Research | [Behind the Name](https://www.behindthename.com) |
+| Namepedia | Name Research | [Namepedia](https://www.namepedia.com) |
+| FamilySearch | Public Records | [FamilySearch](https://www.familysearch.org) |
+| Ancestry | Public Records | [Ancestry](https://www.ancestry.com) |
+| DocuBase | Document Checking | [DocuBase](https://www.docubase.com) |
