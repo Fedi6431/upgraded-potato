@@ -42,6 +42,7 @@ Open Source Intelligence (OSINT) is the method of retrieving information about a
 | Google | General information | [Google](http://www.google.com) |
 | DuckDuckGo | General information | [DuckDuckGo](https://duckduckgo.com) |
 | Shodan | Precise information / Advanced information gathering | [Shodan](https://www.shodan.io/) |
+| Wayback machine | Internet web archive | [Wayback Machine](https://archive.org/web/)
 
 #### Open Database, Directories and Services Search
 
@@ -64,6 +65,7 @@ Open Source Intelligence (OSINT) is the method of retrieving information about a
 | FamilySearch | Public Records | [FamilySearch](https://www.familysearch.org) |
 | Ancestry | Public Records | [Ancestry](https://www.ancestry.com) |
 | DocuBase | Document Checking | [DocuBase](https://www.docubase.com) |
+| epieos | Email lookup | [epieos](https://epieos.com/)
 
 ### Useful OSINT tools
 | Name | Description | Link |
