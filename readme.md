@@ -125,6 +125,57 @@ Open Source Intelligence (OSINT) is the method of retrieving information about a
 | Recon-ng | Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources. | [Recon-ng](https://github.com/lanmaster53/recon-ng) |
 | Spiderfoot | SpiderFoot automates OSINT for threat intelligence and mapping your attack surface | [Spiderfoot](https://github.com/smicallef/spiderfoot++) |
 | Creepy | A geolocation OSINT tool. Offers geolocation information gathering through social networking platforms. | [Creepy](https://github.com/ilektrojohn/creepy) |
+| AperiSolve | A platform that performs layer analysis on images (open-source) | [AperiSolve](https://aperisolve.fr/) |
+| Convert | Convert images between formats and apply filters | [Convert](http://www.imagemagick.org/script/convert.php) |
+| Exif | Shows EXIF information in JPEG files | [Exif](http://manpages.ubuntu.com/manpages/trusty/man1/exif.1.html) |
+| Exiftool | Read and write meta information in files | [Exiftool](https://linux.die.net/man/1/exiftool) |
+| Exiv2 | Image metadata manipulation tool | [Exiv2](http://www.exiv2.org/manpage.html) |
+| Image Steganography | Embeds text and files in images with optional encryption | [Image Steganography](https://sourceforge.net/projects/image-steg/) |
+| Image Steganography Online | Client-side JavaScript tool to hide images inside other images | [Image Steganography Online](https://incoherency.co.uk/image-steganography) |
+| ImageMagick | Tool for manipulating images | [ImageMagick](http://www.imagemagick.org/script/index.php) |
+| Outguess | Universal steganographic tool | [Outguess](https://www.freebsd.org/cgi/man.cgi?query=outguess) |
+| Pngtools | For various analysis related to PNGs | [Pngtools](https://packages.debian.org/sid/pngtools) |
+| SmartDeblur | Used to deblur and fix defocused images | [SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur) |
+| Steganabara | Tool for stegano analysis written in Java | [Steganabara](https://www.openhub.net/p/steganabara) |
+| SteganographyOnline | Online steganography encoder and decoder | [SteganographyOnline](https://stylesuxx.github.io/steganography/) |
+| Stegbreak | Launches brute-force dictionary attacks on JPG images | [Stegbreak](https://linux.die.net/man/1/stegbreak) |
+| StegCracker | Steganography brute-force utility to uncover hidden data inside files | [StegCracker](https://github.com/Paradoxis/StegCracker) |
+| stegextract | Detect hidden files and text in images | [stegextract](https://github.com/evyatarmeged/stegextract) |
+| Steghide | Hide data in various kinds of images | [Steghide](http://steghide.sourceforge.net/) |
+| StegOnline | Conduct a wide range of image steganography operations | [StegOnline](https://georgeom.net/StegOnline/upload) |
+| Stegsolve | Apply various steganography techniques to images | [Stegsolve](http://www.caesum.com/handbook/Stegsolve.jar) |
+| Zsteg | PNG/BMP analysis | [Zsteg](https://github.com/zed-0xff/zsteg/) |
+| Aircrack-Ng | Crack 802.11 WEP and WPA-PSK keys | [Aircrack-Ng](http://www.aircrack-ng.org/) |
+| Audacity | Analyze sound files | [Audacity](http://sourceforge.net/projects/audacity/) |
+| Bkhive and Samdump2 | Dump SYSTEM and SAM files | [Bkhive and Samdump2](http://sourceforge.net/projects/ophcrack/files/samdump2/) |
+| CFF Explorer | PE Editor | [CFF Explorer](http://www.ntcore.com/exsuite.php) |
+| Creddump | Dump Windows credentials | [Creddump](https://github.com/moyix/creddump) |
+| DVCS Ripper | Rips web-accessible version control systems | [DVCS Ripper](https://github.com/kost/dvcs-ripper) |
+| Exif Tool | Read, write, and edit file metadata | [Exif Tool](http://www.sno.phy.queensu.ca/~phil/exiftool/) |
+| Extundelete | Recover lost data from mountable images | [Extundelete](http://extundelete.sourceforge.net/) |
+| Fibratus | Tool for exploration and tracing of the Windows kernel | [Fibratus](https://github.com/rabbitstack/fibratus) |
+| Foremost | Extract particular kinds of files using headers | [Foremost](http://foremost.sourceforge.net/) |
+| Fsck.ext4 | Fix corrupt filesystems | [Fsck.ext4](http://linux.die.net/man/8/fsck.ext3) |
+| Malzilla | Malware hunting tool | [Malzilla](http://malzilla.sourceforge.net/) |
+| NetworkMiner | Network Forensic Analysis Tool | [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) |
+| PDF Streams Inflater | Find and extract zlib files compressed in PDF files | [PDF Streams Inflater](http://malzilla.sourceforge.net/downloads.html) |
+| Pngcheck | Verify the integrity of PNG and dump chunk-level information | [Pngcheck](http://www.libpng.org/pub/png/apps/pngcheck.html) |
+| ResourcesExtract | Extract various file types from executables | [ResourcesExtract](http://www.nirsoft.net/utils/resources_extract.html) |
+| Shellbags | Investigate NT_USER.dat files | [Shellbags](https://github.com/williballenthin/shellbags) |
+| Snow | A Whitespace Steganography Tool | [Snow](https://sbmlabs.com/notes/snow_whitespace_steganography_tool) |
+| USBRip | Track USB device artifacts on GNU/Linux | [USBRip](https://github.com/snovvcrash/usbrip) |
+| Volatility | Investigate memory dumps | [Volatility](https://github.com/volatilityfoundation/volatility) |
+| Wireshark | Analyze pcap or pcapng files | [Wireshark](https://www.wireshark.org) |
+| OfflineRegistryView | View offline Registry files from external drives | [OfflineRegistryView](https://www.nirsoft.net/utils/offline_registry_view.html) |
+| Registry Viewer | View Windows registries | [Registry Viewer](https://accessdata.com/product-download/registry-viewer-2-0-0) |
+| Hashcat | Password Cracker | [Hashcat](https://hashcat.net/hashcat/) |
+| Hydra | Parallelized login cracker supporting numerous protocols | [Hydra](https://tools.kali.org/password-attacks/hydra) |
+| John The Jumbo | Community enhanced version of John the Ripper | [John The Jumbo](https://github.com/magnumripper/JohnTheRipper) |
+| John The Ripper | Password Cracker | [John The Ripper](http://www.openwall.com/john/) |
+| Nozzlr | Modular and script-friendly bruteforce framework | [Nozzlr](https://github.com/intrd/nozzlr) |
+| Ophcrack | Windows password cracker based on rainbow tables | [Ophcrack](http://ophcrack.sourceforge.net/) |
+| Patator | Multi-purpose brute-forcer with a modular design | [Patator](https://github.com/lanjelot/patator) |
+| Turbo Intruder | Burp Suite extension for sending large numbers of HTTP requests | [Turbo Intruder](https://portswigger.net/research/turbo-intruder-embracing-the-billion-request-attack) |
 
 
 ## Miscellaneous 
