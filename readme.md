@@ -49,6 +49,9 @@ Miscellaneous are serves as a catch-all for challenges that don't neatly fit int
 | Stegseek | Lightning fast steghide cracker that can be used to extract hidden data from files | [Stegseek](https://github.com/RickdeJager/stegseek) |
 | Steghide | Manual website of the Steghide tool | [Steghide](http://steghide.sourceforge.net/documentation/manpage.php) |
 | zsteg | Ruby tool for steganography purposes | [zsteg](https://github.com/zed-0xff/zsteg) |
+|  Forensically| Extract  data from images | [Forensically](https://29a.ch/photo-forensics/#forensic-magnifier) |
+| Autopsy | File recovery tool with data carving | [Autopsy](https://www.sleuthkit.org/autopsy/) |
+| Foremost | File recovery tool based on their bytes| [Foremost](https://tools.kali.org/forensics/foremost) |
 
 
 ## Network Security
