@@ -1,9 +1,24 @@
+## Training
+[PicoCTF](https://picoctf.org/)
+[Olyciber](https://training.olicyber.it/)
+[capturetheflag](https://capturetheflag.it/risorse/come-imparo)
+[OverTheWiere](https://overthewire.org/wargames/)
+[pwnable](https://pwnable.kr/)
+[TryHackMe](https://tryhackme.com/)
+[HackTheBox](https://www.hackthebox.com/)
+[HackThisSite](https://www.hackthissite.org/)
+
 ## Miscellaneous 
 ## Network Security
 ## Web Security
 ## Cryptography 
 ### What is cryptography?
 Cryptography is the practice and study of techniques for secure communication in the presence of adversaries
+
+### Useful link for cryptography
+### Useful tools for cryptography
+https://github.com/mufeedvh/basecrack
+
 ## Software Security
 ## OSINT
 ### What is OSINT (Open Source Intelligence)?
