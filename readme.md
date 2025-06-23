@@ -17,6 +17,7 @@
 
 [ctftime](https://ctftime.org/ctfs)
 
+
 ## Miscellaneous 
 ### What are miscellaneous?
 Miscellaneous are serves as a catch-all for challenges that don't neatly fit into the more defined categories like web, crypto, or reverse engineering
@@ -49,12 +50,22 @@ Miscellaneous are serves as a catch-all for challenges that don't neatly fit int
 | Steghide | Manual website of the Steghide tool | [Steghide](http://steghide.sourceforge.net/documentation/manpage.php) |
 | zsteg | Ruby tool for steganography purposes | [zsteg](https://github.com/zed-0xff/zsteg) |
 
+
 ## Network Security
+
+
 ## Web Security
+
+
 ## Cryptography 
+### What is cryptography?
+Cryptography is the practice and study of techniques for secure communication in the presence of adversaries
+
+#### Useful links & tools for cryptography
 | Name | Description | Link |
 |------|-------------|------|
 | dCode | Crypto heaven | [dCode](https://www.dcode.fr) |
+| BaseCrack | Decode All Bases - Base Scheme Decoder | [BaseCrack](https://github.com/mufeedvh/basecrack)
 | QuipQuip | Online substitution cipher solver with frequency analysis | [QuipQuip](https://quipqiup.com/) |
 | Big Numbers Calculator 1 | An online calculator for huge integers | [Big Numbers Calculator 1](http://www.javascripter.net/math/calculators/100digitbigintcalculator.htm) |
 | Big Numbers Calculator 2 | An online calculator for huge integers, worse UI but maybe better performance | [Big Numbers Calculator 2](https://defuse.ca/big-number-calculator.htm) |
@@ -87,12 +98,6 @@ Miscellaneous are serves as a catch-all for challenges that don't neatly fit int
 | Cryptii | A web application that provides a suite of tools for encryption, decryption, and encoding | [Cryptii](https://cryptii.com/) |
 | Keyboard Shift | A tool for performing keyboard shift ciphers | [Keyboard Shift](https://github.com/bwatter/keyboard-shift-cipher) |
 
-### What is cryptography?
-Cryptography is the practice and study of techniques for secure communication in the presence of adversaries
-
-### Useful link for cryptography
-### Useful tools for cryptography
-https://github.com/mufeedvh/basecrack
 
 ## Software Security
 
