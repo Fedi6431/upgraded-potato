@@ -272,6 +272,13 @@ Network security is the practice of protecting a computer network from unauthori
 | Ettercap | Ettercap is a comprehensive suite for man in the middle attacks. | [Ettercap](https://www.ettercap-project.org/) |
 | Wifite | Wifite was designed for use with pentesting distributions of Linux | [wifite](https://github.com/derv82/wifite2) |
 | Metasploit | Metasploit helps security teams do more than just verify vulnerabilities, manage security assessments, and improve security awareness. | [Metasploit](https://www.metasploit.com/) |
+| Masscan | Mass IP port scanner, TCP port scanner | [Masscan](https://github.com/robertdavidgraham/masscan) |
+| Monit | A Linux tool to check a host on the network and other non-network activities | [Monit](https://linoxide.com/monitoring-2/monit-linux/) |
+| Nipe | A script to make the Tor Network your default gateway | [Nipe](https://github.com/GouveaHeitor/nipe) |
+| Nmap | An open-source utility for network discovery and security auditing | [Nmap](https://nmap.org/) |
+| Wireshark | Analyze the network dumps | [Wireshark](https://www.wireshark.org/) |
+| Zeek | An open-source network security monitor | [Zeek](https://www.zeek.org) |
+| Zmap | An open-source network scanner | [Zmap](https://zmap.io/) |
 
 
 ## Web Security
@@ -280,3 +287,4 @@ Network security is the practice of protecting a computer network from unauthori
 ## Software Security
 
 
+# I know, there are a lot of clones i'll delete them
