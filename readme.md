@@ -2,6 +2,8 @@
 ## Network Security
 ## Web Security
 ## Cryptography 
+### What is cryptography?
+Cryptography is the practice and study of techniques for secure communication in the presence of adversaries
 ## Software Security
 ## OSINT
 ### What is OSINT (Open Source Intelligence)?
