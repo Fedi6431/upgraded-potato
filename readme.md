@@ -17,6 +17,19 @@
 
 
 ## Miscellaneous 
+| Name | Description | Link |
+|------|-------------|------|
+| John Hammond - Katana | Huge repo of very useful CTF tools | [Link](https://github.com/JohnHammond/ctf-katana) |
+| Cyberchef | Huge tool to perform every type of calculation of any category | [Link](https://gchq.github.io/CyberChef/) |
+| Hex Editor | Online hex editor for files | [Link](https://hexed.it/) |
+| Online Converter | ASCII/Hex/Dec/Bin/b64 converter tool online | [Link](https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html) |
+| XOR Calculator | XOR Calculator | [Link](http://xor.pw/) |
+| Resource Saver | Chrome extension to download all the resources of a website | [Link](https://chrome.google.com/webstore/detail/save-all-resources/abpdnfjocnmdomablahdcfnoggeeiedb?hl=en-US) |
+| Github Secrets | Search for dangling or force-pushed commits in a Github repo | [Link](https://github.com/neodyme-labs/github-secrets) |
+| Zip Password Cracker | A really useful and free online zip password finder | [Link](https://passwordrecovery.io/zip-file-password-removal/) |
+| Regex Check | Check regular expressions online | [Link](https://www.debuggex.com/) |
+| ASCII Table | ASCII Table | [Link](http://www.asciitable.com/) |
+
 ## Network Security
 ## Web Security
 ## Cryptography 
