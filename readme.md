@@ -32,11 +32,20 @@ Miscellaneous are serves as a catch-all for challenges that don't neatly fit int
 | Zip Password Cracker | A really useful and free online zip password finder | [Zip Password Cracker](https://passwordrecovery.io/zip-file-password-removal/) |
 | Regex Check | Check regular expressions online | [Regex Check](https://www.debuggex.com/) |
 | ASCII Table | ASCII Table | [ASCII Table](http://www.asciitable.com/) |
- | StegCracker | A tool for cracking steganography-encoded files | [StegCracker](https://github.com/Paradoxis/StegCracker) |
+| StegCracker | A tool for cracking steganography-encoded files | [StegCracker](https://github.com/Paradoxis/StegCracker) |
 | Steghide | A tool for hiding data in files and images | [Steghide](http://steghide.sourceforge.net/) |
 | OpenStego | A tool for hiding data in images | [OpenStego](https://www.openstego.com/) |
 |Stegsolve | A tool for solving steganography challenges | [Stegsolve](https://github.com/zardus/ctf-tools/tree/master/stegsolve) |
 | Online Stego Tool | A web application that provides a suite of tools for steganography | [Online Stego Tool](https://stylesuxx.github.io/steganography/) |
+| Aperi'Solve | One of the best online tools with static analysis and also running zsteg, steghide, exiftool, binwalk, foremost | [Aperi'Solve](https://aperisolve.fr/) |
+| StegOnline | Big stego tool, upload image and modify/extract data | [StegOnline](https://stegonline.georgeom.net) |
+| Stegsolve | JAR file to view hidden text in images | [Stegsolve](https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve) |
+| Steg 1 | Online encoder/decoder of files in images | [Steg 1](https://stylesuxx.github.io/steganography/) |
+| Steg 2 | Online encoder/decoder of files in images, maybe more powerful | [Steg 2](https://futureboy.us/stegano/decinput.html) |
+| Images Color Picker | Get colors from websites/images in Hex/RGB | [Images Color Picker](https://imagecolorpicker.com/) |
+| Stegseek | Lightning fast steghide cracker that can be used to extract hidden data from files | [Stegseek](https://github.com/RickdeJager/stegseek) |
+| Steghide | Manual website of the Steghide tool | [Steghide](http://steghide.sourceforge.net/documentation/manpage.php) |
+| zsteg | Ruby tool for steganography purposes | [zsteg](https://github.com/zed-0xff/zsteg) |
 
 ## Network Security
 ## Web Security
