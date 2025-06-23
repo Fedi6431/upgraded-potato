@@ -15,8 +15,33 @@
 
 [HackThisSite](https://www.hackthissite.org/)
 
-[ctftime](https://ctftime.org/ctfs)
+[Intigriti Monthly Challenge](https://challenge.intigriti.io)
 
+[ImaginaryCTF](https://imaginaryctf.org)
+
+[247CTF](https://247ctf.com)
+
+[CTF Challenge](https://ctfchallenge.com)
+
+[CTF Learn](https://ctflearn.com)
+
+[CryptoHack](https://cryptohack.org)
+
+[Google CTF](https://capturetheflag.withgoogle.com)
+
+[SmashTheStack](http://www.smashthestack.org/main.html#wargames)
+
+[W3Challs](https://w3challs.com/challenges)
+
+[Ringzer0CTF](https://ringzer0ctf.com/challenges)
+
+[Root Me](https://www.root-me.org)
+
+[SecurityValley CTF](https://ctf.securityvalley.org)
+
+[Game Hacking](https://github.com/mrT4ntr4/CTF-Game-Challenges)
+
+[Mobile](https://github.com/xtiankisutsa/awesome-mobile-CTF)
 
 ## OSINT
 ### What is OSINT (Open Source Intelligence)?
