@@ -139,6 +139,12 @@ Network security is the practice of protecting a computer network from unauthori
 #### Useful links & tools for network security
 | Name | Description | Link |
 |------|-------------|------|
+| Wireshark | Wireshark lets you dive deep into your network traffic - free and open source. | [Wireshark](https://www.wireshark.org/) |
+| Aircrack-ng | Aircrack- ng is a complete suite of tools to assess WiFi network security. | [Aircrack](https://www.aircrack-ng.org/) |
+| Ettercap | Ettercap is a comprehensive suite for man in the middle attacks. | [Ettercap](https://www.ettercap-project.org/) |
+| Wifite | Wifite was designed for use with pentesting distributions of Linux | [wifite](https://github.com/derv82/wifite2) |
+| Metasploit | Metasploit helps security teams do more than just verify vulnerabilities, manage security assessments, and improve security awareness. | [Metasploit](https://www.metasploit.com/) |
+
 
 ## Web Security
 
