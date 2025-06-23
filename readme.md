@@ -334,9 +334,13 @@ Network security is the practice of protecting a computer network from unauthori
 
 
 ## Software Security & pwn
+### What is software security?
 Software security is a crucial aspect of cybersecurity that focuses on protecting software from vulnerabilities, unauthorized access, and malicious attacks
 
+### What is pwn?
 Pwn is a slang term, derived from the word "own", that signifies a complete and utter domination or compromise of a system or application
+
+#### Useful links & tools for software security & pwn
 | Name | Description | Link |
 |------|-------------|------|
 | angr | Next-generation binary analysis engine from Shellphish | [angr](http://angr.io) |
