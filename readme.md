@@ -130,6 +130,42 @@ Open Source Intelligence (OSINT) is the method of retrieving information about a
 | Spiderfoot | SpiderFoot automates OSINT for threat intelligence and mapping your attack surface | [Spiderfoot](https://github.com/smicallef/spiderfoot++) |
 | Creepy | A geolocation OSINT tool. Offers geolocation information gathering through social networking platforms. | [Creepy](https://github.com/ilektrojohn/creepy) |
 | AperiSolve | A platform that performs layer analysis on images (open-source) | [AperiSolve](https://aperisolve.fr/) |
+
+
+## Miscellaneous 
+### What are miscellaneous?
+Miscellaneous are serves as a catch-all for challenges that don't neatly fit into the more defined categories like web, crypto, or reverse engineering
+
+#### Useful links & tools for miscellaneous
+| Name | Description | Name |
+|------|-------------|------|
+| John Hammond - Katana | Huge repo of very useful CTF tools | [John Hammond - Katana](https://github.com/JohnHammond/ctf-katana) |
+| Cyberchef | Huge tool to perform every type of calculation of any category | [Cyberchef](https://gchq.github.io/CyberChef/) |
+| Hex Editor | Online hex editor for files | [Hex Editor](https://hexed.it/) |
+| Online Converter | ASCII/Hex/Dec/Bin/b64 converter tool online | [Online Converter](https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html) |
+| XOR Calculator | XOR Calculator | [XOR Calculator](http://xor.pw/) |
+| Resource Saver | Chrome extension to download all the resources of a website | [Resource Saver](https://chrome.google.com/webstore/detail/save-all-resources/abpdnfjocnmdomablahdcfnoggeeiedb?hl=en-US) |
+| Github Secrets | Search for dangling or force-pushed commits in a Github repo | [Github Secrets](https://github.com/neodyme-labs/github-secrets) |
+| Zip Password Cracker | A really useful and free online zip password finder | [Zip Password Cracker](https://passwordrecovery.io/zip-file-password-removal/) |
+| Regex Check | Check regular expressions online | [Regex Check](https://www.debuggex.com/) |
+| ASCII Table | ASCII Table | [ASCII Table](http://www.asciitable.com/) |
+| StegCracker | A tool for cracking steganography-encoded files | [StegCracker](https://github.com/Paradoxis/StegCracker) |
+| Steghide | A tool for hiding data in files and images | [Steghide](http://steghide.sourceforge.net/) |
+| OpenStego | A tool for hiding data in images | [OpenStego](https://www.openstego.com/) |
+|Stegsolve | A tool for solving steganography challenges | [Stegsolve](https://github.com/zardus/ctf-tools/tree/master/stegsolve) |
+| Online Stego Tool | A web application that provides a suite of tools for steganography | [Online Stego Tool](https://stylesuxx.github.io/steganography/) |
+| Aperi'Solve | One of the best online tools with static analysis and also running zsteg, steghide, exiftool, binwalk, foremost | [Aperi'Solve](https://aperisolve.fr/) |
+| StegOnline | Big stego tool, upload image and modify/extract data | [StegOnline](https://stegonline.georgeom.net) |
+| Stegsolve | JAR file to view hidden text in images | [Stegsolve](https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve) |
+| Steg 1 | Online encoder/decoder of files in images | [Steg 1](https://stylesuxx.github.io/steganography/) |
+| Steg 2 | Online encoder/decoder of files in images, maybe more powerful | [Steg 2](https://futureboy.us/stegano/decinput.html) |
+| Images Color Picker | Get colors from websites/images in Hex/RGB | [Images Color Picker](https://imagecolorpicker.com/) |
+| Stegseek | Lightning fast steghide cracker that can be used to extract hidden data from files | [Stegseek](https://github.com/RickdeJager/stegseek) |
+| Steghide | Manual website of the Steghide tool | [Steghide](http://steghide.sourceforge.net/documentation/manpage.php) |
+| zsteg | Ruby tool for steganography purposes | [zsteg](https://github.com/zed-0xff/zsteg) |
+|  Forensically| Extract  data from images | [Forensically](https://29a.ch/photo-forensics/#forensic-magnifier) |
+| Autopsy | File recovery tool with data carving | [Autopsy](https://www.sleuthkit.org/autopsy/) |
+| Foremost | File recovery tool based on their bytes| [Foremost](https://tools.kali.org/forensics/foremost) |
 | Convert | Convert images between formats and apply filters | [Convert](http://www.imagemagick.org/script/convert.php) |
 | Exif | Shows EXIF information in JPEG files | [Exif](http://manpages.ubuntu.com/manpages/trusty/man1/exif.1.html) |
 | Exiftool | Read and write meta information in files | [Exiftool](https://linux.die.net/man/1/exiftool) |
@@ -180,42 +216,6 @@ Open Source Intelligence (OSINT) is the method of retrieving information about a
 | Ophcrack | Windows password cracker based on rainbow tables | [Ophcrack](http://ophcrack.sourceforge.net/) |
 | Patator | Multi-purpose brute-forcer with a modular design | [Patator](https://github.com/lanjelot/patator) |
 | Turbo Intruder | Burp Suite extension for sending large numbers of HTTP requests | [Turbo Intruder](https://portswigger.net/research/turbo-intruder-embracing-the-billion-request-attack) |
-
-
-## Miscellaneous 
-### What are miscellaneous?
-Miscellaneous are serves as a catch-all for challenges that don't neatly fit into the more defined categories like web, crypto, or reverse engineering
-
-#### Useful links & tools for miscellaneous
-| Name | Description | Name |
-|------|-------------|------|
-| John Hammond - Katana | Huge repo of very useful CTF tools | [John Hammond - Katana](https://github.com/JohnHammond/ctf-katana) |
-| Cyberchef | Huge tool to perform every type of calculation of any category | [Cyberchef](https://gchq.github.io/CyberChef/) |
-| Hex Editor | Online hex editor for files | [Hex Editor](https://hexed.it/) |
-| Online Converter | ASCII/Hex/Dec/Bin/b64 converter tool online | [Online Converter](https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html) |
-| XOR Calculator | XOR Calculator | [XOR Calculator](http://xor.pw/) |
-| Resource Saver | Chrome extension to download all the resources of a website | [Resource Saver](https://chrome.google.com/webstore/detail/save-all-resources/abpdnfjocnmdomablahdcfnoggeeiedb?hl=en-US) |
-| Github Secrets | Search for dangling or force-pushed commits in a Github repo | [Github Secrets](https://github.com/neodyme-labs/github-secrets) |
-| Zip Password Cracker | A really useful and free online zip password finder | [Zip Password Cracker](https://passwordrecovery.io/zip-file-password-removal/) |
-| Regex Check | Check regular expressions online | [Regex Check](https://www.debuggex.com/) |
-| ASCII Table | ASCII Table | [ASCII Table](http://www.asciitable.com/) |
-| StegCracker | A tool for cracking steganography-encoded files | [StegCracker](https://github.com/Paradoxis/StegCracker) |
-| Steghide | A tool for hiding data in files and images | [Steghide](http://steghide.sourceforge.net/) |
-| OpenStego | A tool for hiding data in images | [OpenStego](https://www.openstego.com/) |
-|Stegsolve | A tool for solving steganography challenges | [Stegsolve](https://github.com/zardus/ctf-tools/tree/master/stegsolve) |
-| Online Stego Tool | A web application that provides a suite of tools for steganography | [Online Stego Tool](https://stylesuxx.github.io/steganography/) |
-| Aperi'Solve | One of the best online tools with static analysis and also running zsteg, steghide, exiftool, binwalk, foremost | [Aperi'Solve](https://aperisolve.fr/) |
-| StegOnline | Big stego tool, upload image and modify/extract data | [StegOnline](https://stegonline.georgeom.net) |
-| Stegsolve | JAR file to view hidden text in images | [Stegsolve](https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve) |
-| Steg 1 | Online encoder/decoder of files in images | [Steg 1](https://stylesuxx.github.io/steganography/) |
-| Steg 2 | Online encoder/decoder of files in images, maybe more powerful | [Steg 2](https://futureboy.us/stegano/decinput.html) |
-| Images Color Picker | Get colors from websites/images in Hex/RGB | [Images Color Picker](https://imagecolorpicker.com/) |
-| Stegseek | Lightning fast steghide cracker that can be used to extract hidden data from files | [Stegseek](https://github.com/RickdeJager/stegseek) |
-| Steghide | Manual website of the Steghide tool | [Steghide](http://steghide.sourceforge.net/documentation/manpage.php) |
-| zsteg | Ruby tool for steganography purposes | [zsteg](https://github.com/zed-0xff/zsteg) |
-|  Forensically| Extract  data from images | [Forensically](https://29a.ch/photo-forensics/#forensic-magnifier) |
-| Autopsy | File recovery tool with data carving | [Autopsy](https://www.sleuthkit.org/autopsy/) |
-| Foremost | File recovery tool based on their bytes| [Foremost](https://tools.kali.org/forensics/foremost) |
 
 
 ## Cryptography 
