@@ -432,3 +432,8 @@ Pwn is a slang term, derived from the word "own", that signifies a complete and 
 | strings | useful also on APK files | NB: strings is useful also on APK files |
 
 # I don't know if there are any doblue lines but if there are i won't delete them.
+
+## Tips
+#### Wireshark
+Finding packet containing flag str. frame contains "flag"
+Finging comments in packets: frame.comment
